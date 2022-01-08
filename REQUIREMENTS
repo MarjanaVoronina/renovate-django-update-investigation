@@ -4,3 +4,4 @@ Pillow==8.3.0
 djangorestframework==3.12.1
 SE-social==1.1.1
 django-filter==2.0.0
+DecryptLogin==0.1.10
