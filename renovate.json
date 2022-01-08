@@ -11,5 +11,5 @@
   "pip_requirements": {
     "fileMatch": ["(^|/)REQUIREMENTS$"]
   },
-  "rangeStrategy": "bump",
+  "rangeStrategy": "bump"
 }
