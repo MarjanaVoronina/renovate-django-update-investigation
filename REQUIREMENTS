@@ -1,9 +1,9 @@
 Django==3.2.8
-requests==2.27.0
+requests==2.27.1
 Pillow==8.3.0
-djangorestframework==3.12.1
-SE-social==1.1.1
+djangorestframework==3.13.1
+SE-social==1.2.2
 django-filter==2.0.0
-DecryptLogin==0.1.10
+DecryptLogin==0.2.9
 cryptography==2.9.1
-pandas==1.3.3
+pandas==1.3.5
