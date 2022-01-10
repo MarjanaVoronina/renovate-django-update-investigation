@@ -5,6 +5,7 @@
     "group:all",
     ":prHourlyLimitNone"
   ],
+  "ignorePresets": [":preserveSemverRanges"],
   "major": {
     "enabled": false
   },
